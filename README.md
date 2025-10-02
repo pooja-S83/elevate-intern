@@ -152,9 +152,6 @@ This project demonstrates how to load, process, and visualize sales data using P
 <br>
 
 
-<br>
-<img width="1000" height="600" alt="task5" src="https://github.com/user-attachments/assets/00cbd935-ecec-4004-99d1-93e7f4b6d483" />
-
 <h1>task 7</h1>
 <h3>🖼️ Image Resizer Tool</h3>
 
@@ -203,4 +200,3 @@ Image-Resizer-Tool/
  ├── input_images/      
 <br>
  ├── output_images/
-<br>
