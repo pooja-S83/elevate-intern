@@ -152,7 +152,51 @@ This project demonstrates how to load, process, and visualize sales data using P
 <br>
 
 
+<h1>task 7</h1>
+<h3>🖼️ Image Resizer Tool</h3>
+
+<h5>📌 Overview</h5>
 <br>
-<img width="1000" height="600" alt="task5" src="https://github.com/user-attachments/assets/00cbd935-ecec-4004-99d1-93e7f4b6d483" />
 
+This project is a Python-based Image Resizer and Converter built using the Pillow (PIL) library.
+<br>
+It allows you to batch resize images and convert formats (e.g., JPG → PNG) automatically.
+<br>
 
+🔹 <b>Technologies Used</b>: Python, Pillow, OS module
+<br>
+🔹 <b>Key Concepts</b>: File Handling, Image Processing
+<br>
+
+<h5>🚀 Features</h5>
+
+Resize all images in a folder to a fixed size (default: 800x800).
+<br>
+Convert image formats (default: JPG/PNG/BMP → PNG).
+<br>
+Works on multiple image types (.jpg, .jpeg, .png, .gif, .bmp).
+<br>
+Skips unsupported files automatically.
+<br>
+Error handling with try-except.
+<br>
+
+<h5>behavior:</h5>
+
+Reads all images from input_images/
+<br>
+Resizes them to 800x800
+<br>
+Converts them to PNG
+,br>
+Saves results inside output_images/
+<br>
+<h5>📂 Folder Structure</h5>
+
+Image-Resizer-Tool/
+<br>
+ ├── task7_resizer.py
+<br> 
+ ├── input_images/      
+<br>
+ ├── output_images/
