@@ -222,5 +222,23 @@ Image-Resizer-Tool/
  ├── task7_resizer.py
 <br> 
  ├── input_images/      
-<br>
  ├── output_images/
+
+<h1>TASK 8 </h1>
+<h3># 🤖Rule-Based Chatbot</h3>
+
+This is a simple **rule-based chatbot** built with Python.  
+It can respond to greetings, remember your name, tell jokes, share the date & time, and have casual conversations.  
+Perfect as a beginner-friendly chatbot project!
+
+---
+
+## ✨ Features
+- 👋 Greets the user and remembers their name.  
+- 😊 Responds to basic small talk (e.g., "How are you?").  
+- ⏰ Tells the current date and time.  
+- 😂 Shares random programming jokes.  
+- 💡 Can explain its abilities when asked.  
+- ❌ Ends the chat politely when the user types `exit`, `quit`, or `bye`.  
+
+
